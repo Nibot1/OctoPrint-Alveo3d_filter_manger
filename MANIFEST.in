@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_alveo3d_filter_manger/templates *
+recursive-include octoprint_alveo3d_filter_manger/translations *
+recursive-include octoprint_alveo3d_filter_manger/static *
